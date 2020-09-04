@@ -4,7 +4,7 @@
     <string name="imagebg" translatable="false">imagebg</string>
     <string name="_365" translatable="false">365</string>
     <string name="_24" translatable="false">24</string>
-    <string name="_60">60</string>
+    <string name="_60" translatable="false">60</string>
     <string name="_601" translatable="false">60</string>
     <string name="center" translatable="false">สำนักงานคณะกรรมการการเลือกตั้ง</string>
     <string name="election_commission_of_thailand" translatable="false">ELECTION COMMISSION OF THAILAND</string>
@@ -19,4 +19,7 @@
     <string name="hours">Hours</string>
     <string name="minutes">Minutes</string>
     <string name="seconds">Seconds</string>
+    <string name="thaiid" translatable="false">กรอกเลขบัตรประชาชน</string>
+    <string name="checkstatus" translatable="false">ตรวจสอบสิทธิเลือกตั้ง</string>
+    <string name="shownot13" translatable="false">กรุณากรอกหมายเลขบัตรประชาชน 13 หลัก</string>
 </resources>
